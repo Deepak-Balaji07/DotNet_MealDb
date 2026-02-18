@@ -1,0 +1,6 @@
+@MealDb_HostAddress = http://localhost:5148
+
+GET {{MealDb_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
